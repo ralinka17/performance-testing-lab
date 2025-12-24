@@ -11,6 +11,8 @@ Load testing portfolio with JMeter, k6, CI/CD and monitoring
 - Автоматизация CI/CD (GitHub Actions), конфигурация k6-пайплайнов для регулярного запуска тестов, сборка отчетов
 - План тестирования (/docs), анализ метрик (response time, RPS, error rate), отчеты с выводами по тестированию (/results) и рекомендациями
 
+Тестируется сайт: https://jsonplaceholder.typicode.com
+
 Рекомендации по запуску:
 # клонирование репозитория
 git clone https://github.com/ralinka17/performance-testing-lab
